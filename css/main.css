@@ -1,0 +1,8 @@
+.navbar {
+    background-color: teal;
+}
+
+div.row > div {
+    height: 300px;
+    margin: 20px 0;
+}
